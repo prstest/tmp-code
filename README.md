@@ -21,7 +21,7 @@
 
 ## 结语
 
-每次手动输入 `adb connect ip:port` 都感觉很麻烦，但是考虑到这只是一个 DOS 命令，而我最近也自学了一下 DOS 命令的写法，于是就诞生了这个脚本。
+每次手动输入 `adb connect ip:port` 都感觉很麻烦，但是考虑到这只是一个 Batchfile 命令，而我最近也自学了一下 Batchfile 命令的写法，于是就诞生了这个脚本。
 
 ## Change cmd
 
